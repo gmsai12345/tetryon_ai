@@ -14,7 +14,7 @@ setup(name='tetryonai',
             'requests',
             'bs4',
             'opencv-python',
-            'sklearn'
+            'scikit-learn'
       ],
       test_suite='nose.collector',
       tests_require=['nose'],
